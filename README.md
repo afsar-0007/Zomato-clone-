@@ -43,11 +43,6 @@ I am planning to make this website more dynamic by adding:
 - Dark mode
 - Interactive buttons
 - Restaurant filtering system
-
-## 👨‍💻 Author
-
-Afsar Sohail
-
 ---
 
 This project was built for learning and practice purposes.
